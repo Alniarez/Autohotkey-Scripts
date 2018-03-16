@@ -1,4 +1,4 @@
-﻿;This scripts allow lets you type Spanish symbols on a Enlish Keyboard with ease.
+﻿;This scripts lets you type Spanish symbols on a Enlish Keyboard with ease.
 ;Usage: Ctrl+Alt+[a,e,i,o,u,n] to write á, é, í, ó, ú or ñ.
 ;Affected by caps lock
 
