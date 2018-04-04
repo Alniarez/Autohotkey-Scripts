@@ -1,4 +1,6 @@
-﻿#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
+﻿; Add media controls to any keyboard
+ 
+ #NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
 ; #Warn  ; Enable warnings to assist with detecting common errors.
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
 
@@ -19,7 +21,7 @@ Send {Media_Prev}
 return
 
 ;next
-^F8::	;the + means shift
+^F8::
 Send {Media_Next}
 return
 
