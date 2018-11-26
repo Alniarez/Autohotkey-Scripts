@@ -1,4 +1,4 @@
-﻿;Add Spanish and German symbols to a US (Or any ^^) keyboard layout.
+;Add Spanish and German symbols to a US (Or any ^^) keyboard layout.
 
 #NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
 ; #Warn  ; Enable warnings to assist with detecting common errors.
