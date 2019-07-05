@@ -4,8 +4,6 @@
 ; #Warn  ; Enable warnings to assist with detecting common errors.
 sendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
 
-
-
 ^!a::
 	caps := GetKeyState("Capslock", "T")
 	if caps = 1

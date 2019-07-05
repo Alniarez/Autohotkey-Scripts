@@ -25,7 +25,6 @@ return
 Send {Media_Next}
 return
 
-
 ;Mute
 ^F9::
 Send {Volume_Mute}
