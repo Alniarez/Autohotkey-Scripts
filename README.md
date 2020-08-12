@@ -30,7 +30,7 @@ This script is caps sensitive.
 - <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>/</kbd> = ¿
 - <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>'</kbd> = ä/Ä
 - <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>;</kbd> = ö/Ö
-- <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd><kbd></kbd> = ü/Ü
+- <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>[</kbd> = ü/Ü
 - <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>-</kbd> = ß
 
 ## How to compile this scripts
